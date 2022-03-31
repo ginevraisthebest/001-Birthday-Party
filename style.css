@@ -5,16 +5,34 @@ body{
   background-color:  #a3daff;
   font-family: fantasy
 
+
 }
 
 div{
 
 background-color:  #85ceff ;
+border-radius: 10px;
 
 }
 
 img{
 
 background-color: #85ceff;
+border-radius: 10px;
 
+}
+
+.alert-box{
+  background-color: #c6e7ff;
+  color: #082941; ;
+
+}
+
+.huge-text{
+  font-size:40px
+}
+
+.medium-text{
+  text-align: left;
+  font-size: 15px;
 }
